@@ -1,1 +1,2 @@
-# Stone-Paper-Scissors-Game
+Stone-Paper-Scissors Game ✊📄✂️
+This is a simple Stone-Paper-Scissors game built using [your technology: HTML, CSS , JavaScript, etc.]. It allows players to compete against the computer or another player, following the classic rules where Stone beats Scissors, Scissors beat Paper, and Paper beats Stone. The game features an interactive interface, random AI moves, and instant win/loss detection. Future enhancements may include difficulty levels, multiplayer support, and an improved UI/UX. Feel free to explore, modify, and contribute! 🚀
